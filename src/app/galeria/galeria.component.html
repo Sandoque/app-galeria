@@ -1,0 +1,30 @@
+<h2>{{ titulo }}</h2>
+<div *ngIf="!fotos.length">Nenhuma foto</div>
+<ng-container *ngIf="fotos.length">
+  <div class="fotos">
+    <ng-container *ngFor="let foto of fotos; let i = index">
+      <img *ngIf="i === fotoAtual" [src]="foto" />
+    </ng-container>
+  </div>
+  <div>
+    Foto {{ fotoAtual + 1 }} de {{ fotos.length }}
+    <button [disabled]="fotoAtual === 0" (click)="irParaInicio()">
+      &lt;&lt;
+    </button>
+    <button [disabled]="fotoAtual == 0" (click)="voltaParaAnterior()">
+      &lt;
+    </button>
+    <button
+      [disabled]="fotoAtual === this.fotos.length - 1"
+      (click)="mudaParaProxima()"
+    >
+      &gt;
+    </button>
+    <button
+      [disabled]="fotoAtual === this.fotos.length - 1"
+      (click)="irParaFinal()"
+    >
+      &gt;&gt;
+    </button>
+  </div>
+</ng-container>
