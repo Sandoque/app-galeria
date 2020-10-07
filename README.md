@@ -24,11 +24,13 @@
 
 ## 🛠 Tecnologias utilizadas
 
-- HTML
-- CSS
-- Javascript
-- TypeScript
-- Angular
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Angular](https://angular.io/)
+- [CSS](https://www.w3schools.com/css/)
+- [HTML](https://www.w3schools.com/html/default.asp)
+- [Javascript](https://www.w3schools.com/js/default.asp)
+- [TypeScript](https://www.typescriptlang.org/)
 
 ---
 
@@ -61,7 +63,17 @@ Exercitar os seguintes objetos de estudo:
 - Navegar em `http://localhost:4200/`
 
 ---
+## :factory: Autor
 
-:camera: Developed by Antônio Carlos Sandoque
+<a href="https://www.linkedin.com/in/sandoque/">
+ <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/65127683?s=96&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b> Antônio Carlos Sandoque</b></sub></a> <a href="https://www.linkedin.com/in/sandoque/" title="Sandoque">🚀</a>
+ 
+ Developer By Antônio Carlos Sandoque
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-Sandoque-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandoque/)](https://www.linkedin.com/in/sandoque/) [![Gmail Badge](https://img.shields.io/badge/-acsandoque@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:acsandoque@gmail.com)](mailto:acsandoque@gmail.com)
+
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+
