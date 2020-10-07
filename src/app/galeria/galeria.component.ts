@@ -17,10 +17,10 @@ export class GaleriaComponent {
   voltaParaAnterior() {
     this.fotoAtual--;
   }
-  irParaInicio(fotoAtual: number, fotos: number) {
+  irParaInicio() {
     this.fotoAtual = 0;
   }
-  irParaFinal(fotoAtual: number, fotos: number) {
+  irParaFinal() {
     this.fotoAtual = this.fotos.length - 1;
   }
 }
