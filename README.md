@@ -11,7 +11,7 @@
 
 ## :dash: Deploy da Aplicação com Netlify
 
->
+> https://my-devgallery.netlify.app/
 
 ---
 
@@ -48,7 +48,7 @@ Exercitar os seguintes objetos de estudo:
 
 #### Clonar o repositório
 
-`git clone `
+`git clone https://github.com/Sandoque/app-galeria.git`
 
 #### Instalar as dependencias
 
