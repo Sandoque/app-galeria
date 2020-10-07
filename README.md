@@ -44,7 +44,7 @@ Exercitar os seguintes objetos de estudo:
 
 ---
 
-## 🚀 Como executar o projeto
+## :rocket: Como executar o projeto
 
 #### Clonar o repositório
 
