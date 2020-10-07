@@ -11,7 +11,8 @@
 
 ## :dash: Deploy da Aplicação com Netlify
 
-> https://my-devgallery.netlify.app/
+>  ### https://my-devgallery.netlify.app/ <br />
+> [![Netlify Status](https://api.netlify.com/api/v1/badges/6fc4bb0b-9d36-477c-b041-c11f988eaa09/deploy-status)](https://app.netlify.com/sites/my-devgallery/deploys)
 
 ---
 
