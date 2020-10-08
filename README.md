@@ -81,4 +81,3 @@ Exercitar os seguintes objetos de estudo:
 
 ### :alien: Hits! 
 [![HitCount](http://hits.dwyl.com/Sandoque/Sandoque/app-galeria.svg)](http://hits.dwyl.com/Sandoque/Sandoque/app-galeria)
-
