@@ -77,3 +77,7 @@ Exercitar os seguintes objetos de estudo:
 ## :page_with_curl: Licença
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
+---
+
+[! [HitCount] (http://hits.dwyl.com/Sandoque/Sandoque/app-galeria.svg)] (http://hits.dwyl.com/Sandoque/Sandoque/app-galeria)
+
